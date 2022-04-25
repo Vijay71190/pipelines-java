@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vijaykumarr0691/Vijay_Practise/_apis/build/status/Vijay71190.pipelines-java?branchName=master)](https://dev.azure.com/vijaykumarr0691/Vijay_Practise/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
